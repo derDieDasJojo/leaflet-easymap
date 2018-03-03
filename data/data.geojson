@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Scholven</b><br>3.406 MW Leistung<br>9.390.000 Tonnen CO<sub>2</sub><br><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Scholven_Powerplant.jpg/1280px-Scholven_Powerplant.jpg\" height=125 width=192><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Scholven\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0026958,
+          51.5999194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Mannheim</b><br><a href=\"https://de.wikipedia.org/wiki/Grosskraftwerk_Mannheim\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4973293,
+          49.4445287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Voerde</b><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Voerde\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6825,
+          51.577778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Staudinger (mit Erdgasanteil)</b><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Staudinger\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.952222,
+          50.088056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Heyden</b><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Heyden\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998361,
+          52.382057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Heilbronn</b><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Heilbronn\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2056504,
+          49.1779429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Werne (mit Erdgasanteil)</b><br><a href=\"https://de.wikipedia.org/wiki/Gersteinwerk\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.716944,
+          51.673333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Wilhelmshaven</b><br>757 MW Leistung<br>~6.000 Tonnen Steinkohle am Tag<br>3.100.000T CO/Jahr<sub>2</sub> <br><img src=\"https://upload.wikimedia.org/wikipedia/commons/3/3c/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSCF9564.jpg\" height=125 width=192><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Wilhelmshaven_(Uniper)\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.146384,
+          53.564549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Bergkamen</b><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Bergkamen\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618954,
+          51.637025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Herne</b><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Herne\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.188889,
+          51.551389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Altbach (mit Öl- und Erdgasanteil)</b><br><a href=\"https://de.wikipedia.org/wiki/Heizkraftwerk_Altbach/Deizisau\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.374917,
+          48.717611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Karlsruhe (mit Erdgasanteil)</b><br><a href=\"https://de.wikipedia.org/wiki/Rheinhafen-Dampfkraftwerk_Karlsruhe\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.302778,
+          49.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Veltheim (mit Öl- und Erdgasanteil)</b><br><a href=\"https://de.wikipedia.org/wiki/Gemeinschaftskraftwerk_Veltheim\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.933237,
+          52.189799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "industry",
+        "popupTemplate": "<b>Steinkohlekraftwerk Bexbach </b><br><a href=\"https://de.wikipedia.org/wiki/Kraftwerk_Bexbach\">wiki</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.237778,
+          49.363056
+        ]
+      }
+    }
+
+  ]
+}
